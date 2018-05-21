@@ -1,0 +1,89 @@
+
+.color_naranja1{
+    background-color: rgb(238, 174, 90);
+    height: 6em;
+}
+    
+.color_naranja{
+    background-color: rgb(238, 133, 14);
+    height: 2em;
+}
+.color_blanco_letra{
+    font-size:1em;
+    font-style: oblique;
+    color:white;
+}
+
+
+.color_blanco2{
+        background-color:rgb(245, 245, 243);
+        height: 500px    
+}
+
+.color_naranja3{
+    background-color: rgb(253, 179, 93);
+    height: 200px;
+    }
+.img_circle{
+
+    max-width: 100%;
+    height: auto;
+    display: block;
+    
+}
+
+
+
+
+/*pagina 2*/
+
+.color_naranja_segunda{
+    background-color: rgb(238, 133, 14);
+    height: 5em;
+
+}
+
+.color_naranja_titulos{
+    background-color: rgb(241, 99, 23);
+    height: 2em;
+
+
+}
+
+.color_naranja_tercera{
+    background-color: rgb(253, 179, 93);
+    height: 2em;
+    }
+
+.color_blanco2{ 
+    background-color: rgb(243, 243, 242);
+    height: 1em;
+
+}
+
+.color_naranja_informacion{
+        background-color: rgb(238, 133, 14);
+        height: 26em;
+    
+    }
+.color_naranja_informacion2{
+        background-color: rgb(238, 133, 14);
+        height: 15em;
+    
+    }
+.color_espacios{
+    background-color: rgb(243, 240, 236);
+    height: 15em;
+
+}
+
+
+
+
+
+
+
+
+
+
+
